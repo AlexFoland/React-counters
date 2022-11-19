@@ -2,6 +2,8 @@
 onDragLeave onDragOver onDragStart onDrop onMouseDown onMouseEnter onMouseLeave
 onMouseMove onMouseOut onMouseOver onMouseUp*/
 
+// git master 2.0
+
 import React from 'react';
 import './index.scss';
 
