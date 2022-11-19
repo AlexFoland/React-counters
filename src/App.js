@@ -2,7 +2,7 @@
 onDragLeave onDragOver onDragStart onDrop onMouseDown onMouseEnter onMouseLeave
 onMouseMove onMouseOut onMouseOver onMouseUp*/
 
-//git counter 2.0
+//git feature 2.0
 
 import React from 'react';
 import './index.scss';
