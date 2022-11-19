@@ -2,6 +2,8 @@
 onDragLeave onDragOver onDragStart onDrop onMouseDown onMouseEnter onMouseLeave
 onMouseMove onMouseOut onMouseOver onMouseUp*/
 
+//Релиз counter 1.0
+
 import React from 'react';
 import './index.scss';
 
